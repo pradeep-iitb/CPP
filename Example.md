@@ -87,6 +87,3 @@ Use `- [ ]` for unchecked and `- [x]` for checked boxes.
    - `mkdir`
    - `ls -la`
 
-
-# DataType Modifiers
-
