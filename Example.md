@@ -1,0 +1,89 @@
+# 🧠 Coding Notes — By Pradeep
+
+## Syntax of .md files
+---
+
+## 🧩 1. Terminal / Shell Commands
+
+Use triple backticks with **bash** for terminal commands.
+
+```bash
+# Update system packages
+sudo apt update
+
+# Install Python
+sudo apt install python3
+
+```
+# Check version
+python3 --version
+
+```Output:
+Hello, Pradeep!
+Number 0
+Number 1
+Number 2
+```
+# 📝 Markdown Lists Examples
+
+## 🔹 1. Unordered List
+Use `-`, `*`, or `+` followed by a space.
+
+- Python
+- C
+- C++
+- Java
+
+You can also **nest** items by indenting them:
+- Fruits
+  - Mango
+  - Apple
+  - Banana
+    - Ripe Banana
+    - Raw Banana
+
+---
+
+## 🔸 2. Ordered List
+Use numbers followed by a period.
+
+1. Install Python
+2. Write code
+3. Run program
+4. Debug errors
+
+Nested ordered lists also work:
+1. Morning routine
+   1. Wake up
+   2. Brush teeth
+   3. Drink water
+2. Study
+   1. Maths
+   2. Programming
+
+---
+
+## ✅ 3. Task List (Checklists)
+Use `- [ ]` for unchecked and `- [x]` for checked boxes.
+
+- [x] Learn Markdown
+- [x] Practice Python
+- [ ] Revise C
+- [ ] Upload project to GitHub
+
+---
+
+## 🧩 4. Mixed List Example
+
+1. Programming Languages:
+   - Python
+   - C
+   - JavaScript
+2. Tools:
+   - Git
+   - VS Code
+3. Commands to remember:
+   - `cd`
+   - `mkdir`
+   - `ls -la`
+
